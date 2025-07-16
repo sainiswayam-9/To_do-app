@@ -1,17 +1,17 @@
-# To-Do List Web App
+# To-Do List App
 
-📝 A simple and responsive to-do list app using HTML, CSS, and JavaScript.
+📝 A clean, interactive to-do list web app using HTML, CSS, and JavaScript.
 
-## 🔧 Features
-- ✅ Add tasks
-- 📝 Click to mark as completed
-- ❌ Right-click to delete
-- 📱 Responsive design
-
-## 🛠️ Tech Used
+## 🔧 Technologies Used
 - HTML5
-- CSS3
-- JavaScript (Vanilla DOM)
+- CSS3 (responsive + animations)
+- JavaScript (vanilla DOM)
 
-## 📍 Live Preview
-[Live on GitHub Pages]()
+## 📌 Features
+- Add task via input or Enter key
+- Mark task as completed
+- Delete task with right-click
+- Responsive & animated UI
+
+## 🔗 Live Demo
+[Click to View](https://sainiswayam-9.github.io/To_do-app/)
